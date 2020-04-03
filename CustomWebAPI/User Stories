@@ -1,0 +1,23 @@
+The idea is to build a really simple competition webpage within the client’s website that encourages people to spread the news about the new product. Users arrive at the page and sign up a form. After a successful sign up, they get one entry for the competition. At that point, they also have an option to share the sign up link. Every successful sign up referred via the link will give extra competition entries to the original link poster. There is no limit to the number of entries that a person can enter. So the idea is: The more entries you have, the higher your chance to win the prize.
+
+The prize is 100 bottles of powerhouse drink.
+
+The top 10 person with the most entries will win the prize.
+
+Requirements:
+
+1. The new webpage is to be launched 3 months from today.
+2. The duration of the competition will be 1 month from the day it is launched. After that, the webpage will be removed.
+3. The webpage will consists of text, graphical elements and a sign up form.
+4. The sign up form will consists of the following compulsory fields: First name, Last name, Mobile Number and Email Address.
+5. When the form is submitted, the user will receive an EDM (Electronic Direct Mail) with an option to post a special link to the competition page from his/her facebook or twitter account.
+6. When people arrive to the competition page via the special link and signs up the form. The original poster will get one more extra entry for the competition.
+7. After the competition has expired, provide a list of winners to the client.
+
+An Example:
+
+1. Bob goes to the competition page and signs up the form. Bob gets 1 entry to the competition.
+2. Bob receives an EDM encouraging him to share to his friends. Bob posts the news in facebook via a link from the edm.
+3. Jane sees the news in facebook and clicks on the competition link.
+4. Jane arrives at the competition page and signs up the form.
+5. Now, Bob gets 2 entries and Jane gets 1 entry to the competition.
